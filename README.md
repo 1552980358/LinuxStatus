@@ -9,3 +9,5 @@ curl https://raw.githubusercontent.com/1552980358/LinuxStatus/master/main.cpp > 
 PATH=$PATH:./
 ```
 
+### Capture
+![](capture.png)
